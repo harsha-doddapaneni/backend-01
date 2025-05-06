@@ -11,7 +11,7 @@ pipeline {
         DEBUG = 'true'
         appVersion = ''
         region = 'us-east-1'
-        account_id = '932478401603'
+        account_id = '506369992735'
         project = 'expense'
         environment = 'dev'
         component = 'backend'
